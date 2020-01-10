@@ -15,3 +15,6 @@ https://github.com/expo/expo/issues/5215 : pod install
 
 
 - Nav common mistakes : https://reactnavigation.org/docs/en/common-mistakes.html
+
+
+- createAppContainer is from "react-native"
