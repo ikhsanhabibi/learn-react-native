@@ -12,3 +12,6 @@
 
 - undefined is not an object(evaluating '_ExpoBarCodeScannerModule.default.BarCodeType')
 https://github.com/expo/expo/issues/5215 : pod install
+
+
+- Nav common mistakes : https://reactnavigation.org/docs/en/common-mistakes.html
