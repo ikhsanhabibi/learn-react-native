@@ -22,3 +22,5 @@ https://github.com/expo/expo/issues/5215 : pod install
 - no border TextInput : https://stackoverflow.com/questions/46015572/react-native-bordered-text-input
 
 - center TextInput : https://stackoverflow.com/questions/47203728/center-a-text-in-the-screen-with-react-native
+
+- manage state : https://snack.expo.io/rkDlTKNU-
