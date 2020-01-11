@@ -24,3 +24,8 @@ https://github.com/expo/expo/issues/5215 : pod install
 - center TextInput : https://stackoverflow.com/questions/47203728/center-a-text-in-the-screen-with-react-native
 
 - manage state : https://snack.expo.io/rkDlTKNU-
+
+
+- Forms: https://medium.com/@muratsert1453/react-native-forms-a0e174ca134f
+
+- passing value between two screen : https://www.javatpoint.com/react-native-passing-value-between-screen
