@@ -18,3 +18,5 @@ https://github.com/expo/expo/issues/5215 : pod install
 
 
 - createAppContainer is from "react-native"
+
+- no border TextInput : https://stackoverflow.com/questions/46015572/react-native-bordered-text-input
