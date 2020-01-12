@@ -31,4 +31,4 @@ https://github.com/expo/expo/issues/5215 : pod install
 
 - got matching object : https://stackoverflow.com/questions/13964155/get-javascript-object-from-array-of-objects-by-value-of-property
 
-- changing state : https://reactjs.org/docs/state-and-lifecycle.html#do-not-modify-state-directly
+- changing state : https://reactjs.org/docs/state-and-lifecycle.html#do-not-modify-state-directly and https://stackoverflow.com/questions/46619669/how-to-change-state-inside-the-function
