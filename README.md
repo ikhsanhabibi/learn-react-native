@@ -2,7 +2,6 @@
 
 - React-Native: Module AppRegistry is not a registered callable module: killall -9 node
 
-
 # Create app
 - expo init AwesomeProject
 - npm run eject
@@ -32,3 +31,5 @@ https://github.com/expo/expo/issues/5215 : pod install
 - got matching object : https://stackoverflow.com/questions/13964155/get-javascript-object-from-array-of-objects-by-value-of-property
 
 - changing state : https://reactjs.org/docs/state-and-lifecycle.html#do-not-modify-state-directly and https://stackoverflow.com/questions/46619669/how-to-change-state-inside-the-function
+
+- barcode scanner : https://stackoverflow.com/questions/53141088/writing-type-or-data-of-scanned-barcode-into-text-inputs-on-react-native
