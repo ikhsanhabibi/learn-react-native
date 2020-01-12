@@ -33,3 +33,7 @@ https://github.com/expo/expo/issues/5215 : pod install
 - changing state : https://reactjs.org/docs/state-and-lifecycle.html#do-not-modify-state-directly and https://stackoverflow.com/questions/46619669/how-to-change-state-inside-the-function
 
 - barcode scanner : https://stackoverflow.com/questions/53141088/writing-type-or-data-of-scanned-barcode-into-text-inputs-on-react-native
+
+- Firebase Realtime Database With React Native : https://medium.com/mindorks/firebase-realtime-database-with-react-native-5f357c6ee13b
+
+- react native camera : https://reactnativemaster.com/react-native-camera-expo-example/
