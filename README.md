@@ -29,3 +29,4 @@ https://github.com/expo/expo/issues/5215 : pod install
 - Forms: https://medium.com/@muratsert1453/react-native-forms-a0e174ca134f
 
 - passing value between two screen : https://www.javatpoint.com/react-native-passing-value-between-screen
+- destructuring : https://dev.to/sarah_chima/object-destructuring-in-es6-3fm
