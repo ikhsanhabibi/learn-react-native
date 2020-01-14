@@ -37,3 +37,7 @@ https://github.com/expo/expo/issues/5215 : pod install
 - Firebase Realtime Database With React Native : https://medium.com/mindorks/firebase-realtime-database-with-react-native-5f357c6ee13b
 
 - react native camera : https://reactnativemaster.com/react-native-camera-expo-example/
+
+# Redux :
+- https://www.tutorialspoint.com/redux/index.htm 
+- https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/counter
