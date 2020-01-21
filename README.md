@@ -38,6 +38,8 @@ https://github.com/expo/expo/issues/5215 : pod install
 
 - react native camera : https://reactnativemaster.com/react-native-camera-expo-example/
 
+- firebase(How to set a custom ID when pushing a new object into Firebase) : https://stackoverflow.com/questions/18050856/how-to-set-a-custom-id-when-pushing-a-new-object-into-firebase
+
 # Redux :
 - https://www.tutorialspoint.com/redux/index.htm 
 - https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/counter
