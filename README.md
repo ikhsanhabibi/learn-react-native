@@ -42,6 +42,11 @@ https://github.com/expo/expo/issues/5215 : pod install
 
 - navigating to other screen : https://snack.expo.io/?platform=android&name=First%20navigation&dependencies=react-navigation%40%5E4.0.10%2Creact-navigation-tabs%40%5E2.5.6%2Creact-navigation-stack%40%5E1.10.3%2Creact-navigation-drawer%40%5E2.3.3&sourceUrl=https%3A%2F%2Freactnavigation.org%2Fexamples%2F4.x%2Fnew-screen.js
 
+Learning react native :
+- https://www.tutorialspoint.com/react_native/react_native_state.htm
+- https://www.javatpoint.com/react-native-adding-icons-at-bottom-of-tab-navigation
+
+
 # Redux :
 - https://www.tutorialspoint.com/redux/index.htm 
 - https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/counter
