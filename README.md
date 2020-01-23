@@ -46,6 +46,9 @@ Learning react native :
 - https://www.tutorialspoint.com/react_native/react_native_state.htm
 - https://www.javatpoint.com/react-native-adding-icons-at-bottom-of-tab-navigation
 
+Ionics
+- https://ionicons.com/
+
 
 # Redux :
 - https://www.tutorialspoint.com/redux/index.htm 
