@@ -49,6 +49,8 @@ Learning react native :
 Ionics
 - https://ionicons.com/
 
+Ebook
+- https://books.goalkicker.com/ReactNativeBook/
 
 # Redux :
 - https://www.tutorialspoint.com/redux/index.htm 
