@@ -58,3 +58,5 @@ Ebook
 
 
 - Android emulator-5554 offline: https://stackoverflow.com/questions/18006118/android-emulator-offline-to-online-mode
+
+- Gitignore: https://www.toptal.com/developers/gitignore
