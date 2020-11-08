@@ -55,3 +55,6 @@ Ebook
 # Redux :
 - https://www.tutorialspoint.com/redux/index.htm 
 - https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/counter
+
+
+- Android emulator-5554 offline: https://stackoverflow.com/questions/18006118/android-emulator-offline-to-online-mode
