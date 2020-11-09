@@ -56,7 +56,10 @@ Ebook
 - https://www.tutorialspoint.com/redux/index.htm 
 - https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/counter
 
-
+# React Native on Windows
 - Android emulator-5554 offline: https://stackoverflow.com/questions/18006118/android-emulator-offline-to-online-mode
-
 - Gitignore: https://www.toptal.com/developers/gitignore
+
+
+# Stackoverflow
+- Three dots: https://stackoverflow.com/questions/31048953/what-do-these-three-dots-in-react-do
