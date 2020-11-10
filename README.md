@@ -61,5 +61,12 @@ Ebook
 - Gitignore: https://www.toptal.com/developers/gitignore
 
 
+# Expo
+npm install -g expo-cli
+expo --version
+
+- create a new project: npx expo-cli init food (on Windows, please use git CMD, not git bash)
+
+
 # Stackoverflow
 - Three dots: https://stackoverflow.com/questions/31048953/what-do-these-three-dots-in-react-do
