@@ -72,3 +72,7 @@ expo --version
 - Three dots: https://stackoverflow.com/questions/31048953/what-do-these-three-dots-in-react-do
 - react navigation : https://reactnavigation.org/docs/getting-started/
 - `createStackNavigator()` has been moved to `react-navigation-stack`: https://stackoverflow.com/questions/57817573/createstacknavigator-has-been-moved-to-react-navigation-stack
+- expo icon: https://github.com/expo/vector-icons
+- Change app background color in React Native: https://stackoverflow.com/questions/50619693/change-app-background-color-in-react-native
+- axios API: https://github.com/axios/axios
+- Recycle list (better performance) : https://github.com/Flipkart/recyclerlistview
