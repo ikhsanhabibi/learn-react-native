@@ -71,3 +71,4 @@ expo --version
 # Stackoverflow
 - Three dots: https://stackoverflow.com/questions/31048953/what-do-these-three-dots-in-react-do
 - react navigation : https://reactnavigation.org/docs/getting-started/
+- `createStackNavigator()` has been moved to `react-navigation-stack`: https://stackoverflow.com/questions/57817573/createstacknavigator-has-been-moved-to-react-navigation-stack
