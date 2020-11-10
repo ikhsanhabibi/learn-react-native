@@ -68,6 +68,35 @@ expo --version
 - create a new project: npx expo-cli init food (on Windows, please use git CMD, not git bash)
 
 
+# Problem after creating a new project
+- Expo Developer Tools is disconnected from Expo CLI. Use the expo start command to start the CLI again: https://stackoverflow.com/questions/53474846/expo-developer-tools-is-disconnected-from-expo-cli-use-the-expo-start-command-t/56405514
+
+## React Navigation
+Installation
+1. Install React Navigation
+npm install react-navigation
+
+2. Install Dependencies
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+3. Install React Navigation Stack
+npm install react-navigation-stack @react-native-community/masked-view
+
+4. Start the app and clear cache with npm start -c
+
+Errors?
+If you are still seeing errors and complaints about packages, do the following:
+1. rm -r node_modules
+2. rm package-lock.json
+3. expo upgrade
+4. npm start -c
+
+Update Imports
+Our imports in the upcoming lecture will now look like this:
+
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
+
 # Stackoverflow
 - Three dots: https://stackoverflow.com/questions/31048953/what-do-these-three-dots-in-react-do
 - react navigation : https://reactnavigation.org/docs/getting-started/
